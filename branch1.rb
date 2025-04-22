@@ -1,4 +1,4 @@
-puts "helleeo.rb"
+puts "helleeo.rb" "fwafrwara"
 
 puts "happy ending"
 
